@@ -1,0 +1,12 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "C_Cpp.errorSquiggles": "Disabled",
+
+    "cmake.cmakePath": "C:/Program Files/CMake/bin/cmake",
+    "cmake.configureOnOpen": true,
+    "cmake.generator": "MinGW Makefiles",
+    "files.associations": {
+        "*.ipp": "c"
+    }
+
+}
